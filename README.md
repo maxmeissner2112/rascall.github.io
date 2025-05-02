@@ -3,7 +3,7 @@
 The main function of RASCALL is that given inputs of a molecular dictionary and a functional group dictionary, output approximate spectral data for molecules in the gas phase. For more see the [RASCALL paper](https://pubs.rsc.org/en/content/articlehtml/2019/cp/c8cp07057a). 
 
 
-# Quick Start 
+# Quick Start
 
 ### Installing the RASCALL package locally
 1. Clone the repository and go into it. 
